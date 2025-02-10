@@ -1,11 +1,11 @@
 # Maven_Project-Automation
 
 
-Project Name:
+### Project Name:
 
 🔹 E-commerce Automation Testing – SauceDemo
 
-Description:
+### Description:
 In this project, I automated the end-to-end user journey on SauceDemo, an e-commerce testing platform. The automation covers the following key functionalities:
 
 ✅ Login authentication – Verified user credentials and automated login.
@@ -14,7 +14,7 @@ In this project, I automated the end-to-end user journey on SauceDemo, an e-comm
 
 ✅ Checkout process – Automated form filling, payment processing, and order confirmation.
 
-Technologies Used:
+### Technologies Used:
 
 🔹 Selenium WebDriver
 
@@ -22,7 +22,7 @@ Technologies Used:
 
 🔹 Automation Framework : Selenium, WebDriver, TestNG
 
-Key Learnings:
+### Key Learnings:
 
 🔹 Implementing automation for e-commerce workflows.
 
